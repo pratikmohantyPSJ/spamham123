@@ -1,2 +1,2 @@
-# spamham123
-webapp to print if the entered text is spam or ham
+# BMI PREDICTOR
+webapp to print the bmi by given weight and height
